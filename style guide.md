@@ -61,7 +61,9 @@ That'll cover most of your cases. For wilder things, try to transcribe what you 
 ## Sound Effects
 
 Unfortunately, that leaves Japanese sound effects and H scene noises, both of which are difficult. What does it sound like when someone stares at you? Nothing at all... unless you're Japanese.
+
 For SFX which are voiced (jii is a VN staple), go non-literal and make up something reasonable if at all possible. Worst-case scenario, just straight-up write "Stare"; your readers have seen it before and will be forgiving. But seriously, try to make up something reasonable they'd say, even if it's "Grrrr...".
+
 For SFX which are not spoken aloud, you have a lot more leeway. Feel free to replace with a colorful narration of the actual event, or even with just an appropriate English onomatopoeia. It's totally viable for a line to just say "Bang!" or "Pop.", and you should feel at liberty to just write out something with some flavor like: "I crashed to the floor."
 
 
@@ -106,6 +108,7 @@ Japanese VNs always (as far as I know) use fixed-width characters. Morever, in A
 ## Stuttering
 
 Stuttering is common in VNs, where it is almost always used to show surprise. Sounds which are stuttered should generally be separated by a hyphen, even if the original Japanese uses some other punctuation, such as a comma, to separate them. When stuttering happens on the initial part of a sentence, as is most common, the repeated initial sound should be capitalized as well. Additionally, if the sound being stuttered is a digraph (two characters indicating a single sound), the entire digraph should be repeated.
+
 Examples:
 * "Wh-Who do you think you are?"
 * "Th-That ain't necessarily so."
@@ -144,7 +147,8 @@ Titles which are sometimes capitalized (for instance, "Principal", "General", or
 * Lower-case it when it is not used like a name, and instead is used like the role in general.
 
 Rule of thumb: if you wrote "the" or "my" or something along those lines before the title, then the title shouldn't be capitalized. Otherwise, it probably should.
-Exception to the rule of thumb: "Your Majesty" (despite that "Your" in front of it) is itself a title, and is one which is always used like a name, and thus should be capitalized always.
+
+And an exception to the rule of thumb: "Your Majesty" (despite that "Your" in front of it) is itself a title, and is one which is always used like a name, and thus should be capitalized always.
 
 Examples:
 * "My princess must never know that I'm actually a yandere."
@@ -180,8 +184,11 @@ Exceptions:
 ## Ellipses
 
 An ellipsis should be exactly three periods. Not two. Not four. And also not the unicode ellipsis character. Three periods.
+
 Generally, don't use multiple, sequential ellipses, even if the Japanese script likes to put two Unicode ellipsis characters all over the place; one set of three dots is fine.
+
 The lone exception to the "single ellipsis" rule: when multiple lines of ellipses of different length are used to indicate passage of time, it's okay to use the same technique as the JP original (although you should move in multiples of three dots, even if, for instance, the original JP goes through multiples of six dots). 
+
 Example:
 * "..."
 * "......"
@@ -191,21 +198,20 @@ Example:
 
 ## Spacing around Ellipses
 
-A leading ellipsis in a line SHOULD NOT have a space afterwards.
-Example:
+A leading ellipsis in a line SHOULD NOT have a space afterwards. Example:
 * "...Good morning"
 
-An ellipsis in the middle of the line SHOULD have a space afterwards
-Example:
+An ellipsis in the middle of the line SHOULD have a space afterwards. Example:
 * "But then... what should I do?"
 
-An ellipsis SHOULD NOT have a space immediately preceding it.
+An ellipsis SHOULD NOT have a space immediately preceding it. Example:
 * "But I don't even like pancakes..."
 
 
 ## Capitalization and the Ellipsis
 
 After an ellipsis, the next sentence SHOULD be capitalized IF AND ONLY IF the subsequent phrase is a separate sentence from the original and is an independent clause (i.e., it can stand alone as a sentence).
+
 Examples:
 * "I think you're... cute."
 * "You make me so mad... I'm going to kill you!"
@@ -215,8 +221,7 @@ Examples:
 
 Japanese over-uses them, in all positions. Leading ellipses especially often seem unnecessary and can be deleted, particularly when the corresponding voiced line has no corresponding hesitation. That said, don't feel obligated to remove all or even most of them, but do look critically at every ellipsis and consider deleting it, just to declutter.
 
-In spite of that, rarely, it may be reasonable to add an ellipsis yourself. This is an especially useful technique to show that one thought has been broken up across multiple lines, and even more so if the lines are interrupted.
-Example:
+In spite of that, rarely, it may be reasonable to add an ellipsis yourself. This is an especially useful technique to show that one thought has been broken up across multiple lines, and even more so if the lines are interrupted. Example:
 * "I think you're..."
 * "You think I'm what?"
 * "...cute."
@@ -243,8 +248,8 @@ Typically, asides can be executed less obtrusively with commas, but if you reall
 - "Back when I was younger — and only for a moment, mind you — I did consider it."
 
 En-dashes are probably not applicable to your script at all. Don't worry about them.
-Hyphens should be used for certain compound words, and will probably appear from time to time.
-Example:
+
+Hyphens should be used for certain compound words, and will probably appear from time to time. Example:
 * "I laid the bouquet on the grave of my never-to-be-forgotten princess."
 
 That said, if you find yourself frequently using hyphenated descriptions like the one immediately above, do be wary of whether you might be keeping too much of the Japanese syntax. It's a trap some people fall into. In English, that sort of grammatical construct is pretty unusual and calls a lot of attention to itself, but it is not so in Japanese, so frankly, even if the original is doing it, you probably shouldn't be. Only consider doing that sort of thing rarely, when you're looking to set the prose off a little.
@@ -254,8 +259,7 @@ That said, if you find yourself frequently using hyphenated descriptions like th
 
 Technically you should never use (or see) the interrobang, which is actually a single character with "?" and "!" overlaid. However, since people react melodramatically in VNs all the time, you'll probably see a fair number of sentences ending with both exclamation points and question marks.
 
-Rule: when using "?!" at the end of a sentence to signify a surprised question, always use them in that order, not the opposite order.
-Example: 
+Rule: when using "?!" at the end of a sentence to signify a surprised question, always use them in that order, not the opposite order. Example:
 * "What did he just say?!"
 
 If you really, really, want to, do the opposite order. I'm not going to come after you for doing so, though it will hurt my eyes a little. As always, just make sure that, whatever you do, you're consistent.
