@@ -55,8 +55,7 @@ List of common sounds and corresponding English:
 "Wai!" -> "Yay!"
 "Uuu" -> "Aww"
 "Ita" -> "Ouch"/"Ow"
-"Uwah" -> "Woah"
-"Uooh" -> "Whoa"
+"Uwah" -> "Whoa"
 
 In addition to non-lexical conversational sounds, there are also Japanese onomatopoeia. Using English onomatopoeia where they exist is ideal: "Achoo", "Cough", "Hic", "Sob", "Gulp", "Slurp", etc.,
 
