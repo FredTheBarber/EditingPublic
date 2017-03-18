@@ -51,20 +51,24 @@ Typically, you should transliterate honorifics only if it's appropriate to your 
 
 Once you've made a decision either way, the most important thing is to be consistent in applying it.
 
-When transliterating honorifics, they should be set off from the name or form of address with a hyphen:
-- Dearest Fred-chan, thank you for writing this guide.
+When transliterating honorifics, they should generally be set off from the name or form of address with a hyphen:
+* Dearest Fred-chan, thank you for writing this guide.
 
+There are cases where honorifics and names are elided: if you've read Katawa Shoujo, perhaps you remember the nicknames "Shicchan" and "Hicchan", or in other sources, you may have seen a common shortened form of the name Takumi, "Takkun". I don't have a strong opinion on these, but I have tendency to treat them like nicknames, and thus leave them transliterated, exactly the same way names are always left transliterated.
+
+There are also degrees of understandability among honorifics. "-san", "-kun", "-chan", and "-sama" are probably all pretty well-known, but "-tan" is pretty rare and is going to be pushing your luck, even for a more Japanese-exposed audience. "Senpai" usually provides little value, and is, again, not as well-understood; even if you're keeping the others, you should probably axe it. Since English actually has a variety of equivalent honorifics for "sensei" (Professor, or Mr./Ms.), it can easily be translated in a variety of ways, so there's really little call for transliterating it. "-shi" is so rare that you shouldn't even consider keeping it; it'll confuse even a lot of pretty hardcore otaku.
 
 ## Other Sometimes-Untranslated Terms
 
-Even if keeping honorifics, you should generally translate other Japanese words, even if some translations you may have read have chosen to keep them: senpai, sensei, onee-san, bento, and so forth are sometimes left untranslated. Generally speaking, just translate them. Again, whatever you do, do it consistently.
+Even if keeping honorifics, you should generally translate other Japanese words, even if some translations you may have read have chosen to transliterate them. I'm talking here about transliterating terms like "bento", "kotatsu", or "zabuton." Admittedly, this decision depends on your intended audience, but keep in mind that you're working on a translation, not a transliteration. If your readers could read Japanese, they wouldn't need a translation. Your friend in this endeavor, especially if you have repeated usage of a piece of terminology, is the first reference rule: https://forums.fuwanovel.net/blogs/entry/771-ojousamas-for-all-aka-the-first-reference-rule/. Liberal application of the first reference rule will allow you to use whatever piece of terminology you like as much as you like without potentially confusing your readers. And while it's possible to be a little too hamfisted and make it obvious what you're doing, with enough work, you can sneak in a first reference explanation quite naturally and then use your terminology at will for the rest of the VN.
 
+Again, the most important thing to keep in mind, wwhatever you do, is to do it consistently.
 
 ## Name Order
 
-Take your pick, but again, be consistent (noticing a theme here?). Personally I find the English order, GivenName FamilyName, more natural and would recommend it by default for a new project, but it's not really a big deal. The fact that the resulting name order will be different from the voice over name order will not be confusing to people. Anybody who can listen to the VO carefully enough to realize that will also be able to understand what's being done.
+Take your pick, but again, be consistent (noticing a theme here?). Personally I find the English order, GivenName FamilyName, more natural and would recommend it by default for a new project, but it's not really a big deal. The fact that the resulting name order will be different from the voice over name order will not be confusing to people. Anybody who can listen to the VO carefully enough to realize that will also be able to understand what's being done. Anybody who can't listen to the VO carefully enough is presumably someone who is assuming GivenName FamilyName order, given that it's the predominant order in English.
 
-Being consistent, once again, is the most important thing.
+All that said, being consistent, once again, is the most important thing.
 
 
 ## Interjections And Non-Lexical Conversational Sounds
@@ -73,11 +77,11 @@ The convention for non-lexical conversational sounds (no I did not just google t
 
 Bottom line: you're not transliterating, you're translating, and that goes for things that aren't dictionary words just as much as it does for dictionary words.
 
-List of common sounds and corresponding English:
-* "Eh?" -> "Huh?/What?"
+I cannot give you a single answer for these. Quite often, interpretation of Japanese non-lexical conversational sounds is difficult without a lot of context (or, especially useful, voice acting). However, here are some *possible* translations to keep in your back pocket for common sounds:
+* "Eh?" -> "Huh?" or "What?" or, rarely, "Eh?"
 * "Wai!" -> "Yay!"
-* "Uuu" -> "Aww"
-* "Ita" -> "Ouch"/"Ow"
+* "Uuu" -> "Aww" or "Ugh" (depends heavily on context)
+* "Ita" -> "Ouch" or "Ow"
 * "Uwah" -> "Whoa"
 
 In addition to non-lexical conversational sounds, there are also Japanese onomatopoeia. Using English onomatopoeia where they exist is ideal: "Achoo", "Cough", "Hic", "Sob", "Gulp", "Slurp", etc.,
@@ -105,6 +109,7 @@ For SFX which are not spoken aloud, you have a lot more leeway. Feel free to rep
 
 Completely avoid using English sound effects inside asterisks. They are even less acceptable inside dialogue than they are inside narration, and dialogue is where you'll always be tempted to use them. Just don't do it, and you'll end up happier with the result.
 
+For what it's worth, I initially thought they were probably fine and tried to use them. The tempting question is always, "What am I supposed to do with this weird sound anyway?" When I looked back, I had about 5,000 lines of Majo Koi script which was a wasteland of \*sigh\*s. It read like crap. So, I went through in one day and gutted them out of the script, and it was like a breath of fresh air. Since then, I've been removing them with the zeal of a religious convert, and judging from the recent official localizations I've read, I'm not alone on the opinion that it improves things. I only see them in fan TLs nowadays, and they're always just a little bit jarring, especially in speech lines. Once you force yourself to avoid them, you find both that it's not really all that hard and that it massively pays off in terms of readability.
 
 ## Wasei Eigo
 
@@ -154,7 +159,7 @@ As a general note, stuttering can be way over-used in VNs... if you cut some of 
 
 ## Translation Notes
 
-Translation notes should never be necessary to the understanding of the basic flow of events in your script. If they are, you should rewrite your script in a way that does not require a translation note. One common method for doing this is, when introducing a single piece of new terminology, to use the first reference rule: https://forums.fuwanovel.net/blogs/entry/771-ojousamas-for-all-aka-the-first-reference-rule/. This guidance may be anathema to purists, but if a joke you have literally translated requires an understanding of some peculiar Japanese cultural nuance which isn't widely known, you're better off just rewriting it into something with broader recognition, and if you don't agree, I'm going to take one of your zabuton.
+Translation notes should never be necessary to the understanding of the basic flow of events in your script. If they are, you should rewrite your script in a way that does not require a translation note. If you're considering adding a translation note, consider whether you can avoid it by using the "first reference rule" mentioned earlier in the section about untranslated terms. This guidance may be anathema to purists, but if a joke you have literally translated requires an understanding of some peculiar Japanese cultural nuance which isn't widely known, you're better off just rewriting it into something with broader recognition, and if you don't agree, I'm going to take one of your zabuton.
 
 The reason for this is that forcing a reader to read a translation note is too disruptive to what should otherwise be an immersive reading experience. It doesn't matter if the translation note is inline in the text or a popup indicating a new "tip" has been added; these detract from the reading experience, and should never be required. Though it's okay to have translation notes which provide additional deeper understanding of a cultural reference, for instance, they should not be needed for the first-level understanding. A joke should be funny, first and foremost, not a cultural experience; if you don't agree, I'm going to have to ask Umberto Eco's ghost to lecture you on the importance of equivalence of experience over equivalence of meaning.
 
