@@ -226,8 +226,8 @@ Example:
 
 I see this done rarely:
 
-> I wanted to go see her,
-> but I didn't have the confidence.
+* I wanted to go see her,
+* but I didn't have the confidence.
 
 It looks sloppy and bad. Either you should turn these into two separate, indepenent clauses (and in fact, they already are; you can just use a period there and capitalize the "but" on the next line and call it a day), or you should add trailing and leading ellipses, like mentioned in the previous section.
 
@@ -236,8 +236,8 @@ It looks sloppy and bad. Either you should turn these into two separate, indepen
 Don't use multiple successive hyphens or en-dashes to indicate cut off-speech or asides. The English punctuation to use in these situations is the em-dash, Unicode codepoint U+2014, which can be typed with alt+0151 or copied from the "Character Map" application. When properly encoded, the em-dash should be useable in your VN engine, even if it uses Shift-JIS encoding.
 
 The em-dash should generally be used to indicate an interrupted thought. It should most commonly be used at the end of a sentence, when a character gets cut off mid-speech by another character, e.g.:
-> "Yes, but what about your—"
-> "Shut up!"
+* "Yes, but what about your—"
+* "Shut up!"
 
 Typically, asides can be executed less obtrusively with commas, but if you really want to, you can use em-dashes for an aside in the middle of a sentence.
 - "Back when I was younger — and only for a moment, mind you — I did consider it."
@@ -277,11 +277,11 @@ That said, you may very well write your entire translated VN without using a col
 ## Punctuation around quotation marks
 
 Style guides consistently recommend that punctuation goes inside quotation marks, and also that when quoting, the quotation should be introduced with a comma. Frankly, I often think that the punctuation inside the quotation marks looks unnatural and incorrect. Fortunately, inner quotations are rare in VNs, except for single words (and even these can often be simply eliminated). In that case alone, I diverge from typical style guides and recommend you move the punctuation outside the inner quotation:
-> "You're a shazzbot, Harry."
-> "What the hell is a 'shazzbot'?!"
+* "You're a shazzbot, Harry."
+* "What the hell is a 'shazzbot'?!"
 
 If you have a pretty long phrase inside a quotation, then it often looks natural to leave the punctuation inside, and you should do so.
 
 And of course, there's a single ultimate simplifying option for this problematic area: just rework the sentence to avoid having the quotation next to the punctuation, or to avoid having the quotation at all.
-> "You're a shazzbot, Harry."
-> "What does that even mean?!"
+* "You're a shazzbot, Harry."
+* "What does that even mean?!"
