@@ -1,4 +1,36 @@
-﻿# Purpose of this Guide
+﻿
+- [Purpose of this Guide](#purpose-of-this-guide)
+- [JP Translation-Specific Style](#jp-translation-specific-style)
+  * [Honorifics](#honorifics)
+  * [Other Sometimes-Untranslated Terms](#other-sometimes-untranslated-terms)
+  * [Name Order](#name-order)
+  * [Interjections And Non-Lexical Conversational Sounds](#interjections-and-non-lexical-conversational-sounds)
+  * [Sound Effects](#sound-effects)
+  * [A sidebar on \*sound effects inside asterisks\*](#a-sidebar-on---sound-effects-inside-asterisks--)
+  * [Wasei Eigo](#wasei-eigo)
+  * [On Japanese Quotation Marks](#on-japanese-quotation-marks)
+  * [On American Quotation Marks in Scripts](#on-american-quotation-marks-in-scripts)
+  * [Quotation Marks and indentation](#quotation-marks-and-indentation)
+  * [Stuttering](#stuttering)
+- [General style (punctuation etc.)](#general-style--punctuation-etc-)
+  * [Use American English](#use-american-english)
+  * [Tense And Person](#tense-and-person)
+  * [Sidebar on Past Tense](#sidebar-on-past-tense)
+  * [Spacing after a full sentence](#spacing-after-a-full-sentence)
+  * [Capitalization of Titles](#capitalization-of-titles)
+  * [Numbers](#numbers)
+  * [Ellipses](#ellipses)
+  * [Spacing around Ellipses](#spacing-around-ellipses)
+  * [Capitalization and the Ellipsis](#capitalization-and-the-ellipsis)
+  * [When to Use Ellipses](#when-to-use-ellipses)
+  * [Don't put commas at the ends of lines and then not capitalize the next line](#don-t-put-commas-at-the-ends-of-lines-and-then-not-capitalize-the-next-line)
+  * [Hyphens, en-dashes and em-dashes](#hyphens--en-dashes-and-em-dashes)
+  * [The Interrobang](#the-interrobang)
+  * [Semicolon](#semicolon)
+  * [Colon](#colon)
+  * [Punctuation around quotation marks](#punctuation-around-quotation-marks)
+
+# Purpose of this Guide
 
 The purpose of any style guide is help your text be consistent. Consistency is desirable since it makes your text easier to read. This style guide's goal is specifically is to help you achieve consistency in two areas:
 1. Consistency of topics related to translation from Japanese, i.e., considerations of typography and word choice which you wouldn't really find if you were to read a general-purpose style guide like the MLA Handbook, the Chicago Manual of Style, or the AP Style Guide. Since it's not so widely-covered, this is a little more up-in-the-air, and I'll mostly be offering you options from which you should select one, and then consistently apply it.
