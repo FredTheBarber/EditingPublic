@@ -12,6 +12,7 @@
   * [On American Quotation Marks in Scripts](#on-american-quotation-marks-in-scripts)
   * [Quotation Marks and indentation](#quotation-marks-and-indentation)
   * [Stuttering](#stuttering)
+  * [Translation Notes](#translation-notes)
 - [General style (punctuation etc.)](#general-style--punctuation-etc-)
   * [Use American English](#use-american-english)
   * [Tense And Person](#tense-and-person)
@@ -148,6 +149,15 @@ Examples:
 * "I-I wasn't doing anything."
 
 As a general note, stuttering can be way over-used in VNs... if you cut some of them out on the sly, you'll have my thanks, at least.
+
+
+## Translation Notes
+
+Translation notes should never be necessary to the understanding of the basic flow of events in your script. If they are, you should rewrite your script in a way that does not require a translation note. One common method for doing this is, when introducing a single piece of new terminology, to use the first reference rule: https://forums.fuwanovel.net/blogs/entry/771-ojousamas-for-all-aka-the-first-reference-rule/. This guidance may be anathema to purists, but if a joke you have literally translated requires an understanding of some peculiar Japanese cultural nuance which isn't widely known, you're better off just rewriting it into something with broader recognition, and if you don't agree, I'm going to take one of your zabuton.
+
+The reason for this is that forcing a reader to read a translation note is too disruptive to what should otherwise be an immersive reading experience. It doesn't matter if the translation note is inline in the text or a popup indicating a new "tip" has been added; these detract from the reading experience, and should never be required. Though it's okay to have translation notes which provide additional deeper understanding of a cultural reference, for instance, they should not be needed for the first-level understanding. A joke should be funny, first and foremost, not a cultural experience; if you don't agree, I'm going to have to ask Umberto Eco's ghost to lecture you on the importance of equivalence of experience over equivalence of meaning.
+
+Now, let's suppose you are going to put in some translation notes: how should you do it? If your game engine supports an out-of-band glossary, such as Steins;Gate's Tips or the Clannad localization's Dangopedia, that is an excellent means of providing translation notes. If not, you are best off providing a separate standalone text file with translation notes for those who are interested in reading them. You should never embed translation notes into the narration or dialogue lines themselves; that strategy simply detracts from the reading experience too much to outweigh the benefit of extra information.
 
 
 # General style (punctuation etc.)
