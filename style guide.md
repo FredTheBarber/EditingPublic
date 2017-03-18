@@ -25,11 +25,12 @@
   * [Capitalization and the Ellipsis](#capitalization-and-the-ellipsis)
   * [When to Use Ellipses](#when-to-use-ellipses)
   * [Don't put commas at the ends of lines and then not capitalize the next line](#don-t-put-commas-at-the-ends-of-lines-and-then-not-capitalize-the-next-line)
-  * [Hyphens, en-dashes and em-dashes](#hyphens--en-dashes-and-em-dashes)
+  * [Hyphens, En-dashes and Em-dashes](#hyphens--en-dashes-and-em-dashes)
   * [The Interrobang](#the-interrobang)
   * [Semicolon](#semicolon)
   * [Colon](#colon)
-  * [Punctuation around quotation marks](#punctuation-around-quotation-marks)
+  * [Punctuation Around Quotation Marks](#punctuation-around-quotation-marks)
+  * [The Serial Comma](#the-serial-comma)
 
 # Purpose of this Guide
 
@@ -135,7 +136,7 @@ But there are exceptions: when someone is speaking at a distance, it's appropria
 
 ## Quotation Marks and indentation
 
-Japanese VNs always (as far as I know) use fixed-width characters. Morever, in ADV-style games, whenever a dialogue line runs onto more than one visible line, the second and subsequent lines are always (as far as I know) all indented by one character to match the indentation of the first line for the quotation mark. This gives it the look of a block quotation, and is rather prettier than not indenting. I think this is worth doing, if you're using a fixed-width font (and definitely not something you should do if you don't have a fixed-width font, since it will look even worse).
+Japanese VNs always (as far as I know) use fixed-width characters. Moreover, in ADV-style games, whenever a dialogue line runs onto more than one visible line, the second and subsequent lines are always (as far as I know) all indented by one character to match the indentation of the first line for the quotation mark. This gives it the look of a block quotation, and is rather prettier than not indenting. I think this is worth doing, if you're using a fixed-width font (and definitely not something you should do if you don't have a fixed-width font, since it will look even worse).
 
 
 ## Stuttering
@@ -256,7 +257,7 @@ After an ellipsis, the next sentence SHOULD be capitalized IF AND ONLY IF the su
 
 Examples:
 * "I think you're... cute."
-* "You make me so mad... I'm going to kill you!"
+* "You make me so mad... Today is the day you die!"
 
 
 ## When to Use Ellipses
@@ -278,7 +279,7 @@ I see this done rarely:
 
 It looks sloppy and bad. Either you should turn these into two separate, indepenent clauses (and in fact, they already are; you can just use a period there and capitalize the "but" on the next line and call it a day), or you should add trailing and leading ellipses, like mentioned in the previous section.
 
-## Hyphens, en-dashes and em-dashes
+## Hyphens, En-dashes and Em-dashes
 
 Don't use multiple successive hyphens or en-dashes to indicate cut off-speech or asides. The English punctuation to use in these situations is the em-dash, Unicode codepoint U+2014, which can be typed with alt+0151 or copied from the "Character Map" application. When properly encoded, the em-dash should be useable in your VN engine, even if it uses Shift-JIS encoding.
 
@@ -320,14 +321,23 @@ The only common circumstance where you might want to use a colon is before writi
 That said, you may very well write your entire translated VN without using a colon. That's fine. There are other, rare cases where the big separation provided by a colon may be appropriate. If you do find yourself in one of them, just go read up on the usage of the colon as a punctuation mark somewhere else and make sure you're using it correctly. It's rarely necessary or beneficial, so you might as well simplify by avoiding it.
 
 
-## Punctuation around quotation marks
+## Punctuation Around Quotation Marks
 
-Style guides consistently recommend that punctuation goes inside quotation marks, and also that when quoting, the quotation should be introduced with a comma. Frankly, I often think that the punctuation inside the quotation marks looks unnatural and incorrect. Fortunately, inner quotations are rare in VNs, except for single words (and even these can often be simply eliminated). In that case alone, I diverge from typical style guides and recommend you move the punctuation outside the inner quotation:
+Punctuation and quotation marks have complicated rules of interaction. Fortunately, inner quotations are rare in VNs, except for single words (and even these can often be simply eliminated). Style guides recommend that periods and commas go inside the innermost quotation mark, always, but that other punctuation (notably exclamation points and question marks) may either go inside or outside the quotation marks as appropriate. For instance:
 * "You're a shazzbot, Harry."
 * "What the hell is a 'shazzbot'?!"
 
-If you have a pretty long phrase inside a quotation, then it often looks natural to leave the punctuation inside, and you should do so.
-
-And of course, there's a single ultimate simplifying option for this problematic area: just rework the sentence to avoid having the quotation next to the punctuation, or to avoid having the quotation at all.
+In a nutshell, if the question mark and/or exclamation point belongs with the inner quotation, put it there; if it belongs with the outer, put it there. Of course, there's a single ultimate simplifying option for some of the punctuation salad here: just rework the sentence to avoid having the quotation next to the punctuation, or to avoid having the quotation at all.
 * "You're a shazzbot, Harry."
 * "What does that even mean?!"
+
+When an inner quotation is an independent clause (a technical term meaning it can stand alone as a sentence), the quotation should be introduced with a comma, and the quotation's first word should be capitalized. If the quotation is a dependent clause, it should not be introduced with a comma, and its first word should not be capitalized. Examples, courtesy of Fiddle:
+* He said to me, "Give back the cat."
+* He told me to "give back the cat."
+
+## The Serial Comma
+
+The serial comma, also called the Oxford comma and apparently even the Harvard comma by certain madmen, should be used prior to the coordinating conjunction when providing a list of three or more objects delineated by commas. Example:
+* I like to drink apple juice, orange juice, and the tears of my enemies.
+
+The serial comma decreases ambiguity by delineating that the last object named (the one after the comma and the coordinating conjunction) is actually a standalone member of the list, rather than a part of the previous member. It doesn't sound like that big of a deal, but in practice, it sometimes kind of is: https://qz.com/932004/the-oxford-comma-a-maine-court-settled-the-grammar-debate-over-serial-commas-with-a-ruling-on-overtime-pay-for-dairy-truck-drivers/
