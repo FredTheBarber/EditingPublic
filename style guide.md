@@ -13,7 +13,7 @@
   * [Quotation Marks and indentation](#quotation-marks-and-indentation)
   * [Stuttering](#stuttering)
   * [Translation Notes](#translation-notes)
-- [General style (punctuation etc.)](#general-style--punctuation-etc-)
+- [General style (punctuation etc.)](#general-style-punctuation-etc)
   * [Use American English](#use-american-english)
   * [Tense And Person](#tense-and-person)
   * [Sidebar on Past Tense](#sidebar-on-past-tense)
