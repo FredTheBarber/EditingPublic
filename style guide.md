@@ -100,7 +100,7 @@ That'll cover most of your cases. For wilder things, try to transcribe what you 
 
 Unfortunately, that leaves Japanese sound effects and H scene noises, both of which are difficult. What does it sound like when someone stares at you? Nothing at all... unless you're Japanese.
 
-For SFX which are voiced (jii is a VN staple), go non-literal and make up something reasonable if at all possible. Worst-case scenario, just straight-up write "Stare"; your readers have seen it before and will be forgiving. But seriously, try to make up something reasonable they'd say, even if it's "Grrrr...".
+For SFX which are voiced (jii is a VN staple), go non-literal and make up something reasonable if at all possible. Worst-case scenario, just write "..."; your readers have seen it before and will be forgiving. But seriously, try to make up something reasonable they'd say, even if it's "Grrrr..." or "Hey, jackass."
 
 For SFX which are not spoken aloud, you have a lot more leeway. Feel free to replace with a colorful narration of the actual event, or even with just an appropriate English onomatopoeia. It's totally viable for a line to just say "Bang!" or "Pop.", and you should feel at liberty to just write out something with some flavor like: "I crashed to the floor."
 
