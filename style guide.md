@@ -62,7 +62,7 @@ There are also degrees of understandability among honorifics. "-san", "-kun", "-
 
 Even if keeping honorifics, you should generally translate other Japanese words, even if some translations you may have read have chosen to transliterate them. I'm talking here about transliterating terms like "bento", "kotatsu", or "zabuton." Admittedly, this decision depends on your intended audience, but keep in mind that you're working on a translation, not a transliteration. If your readers could read Japanese, they wouldn't need a translation. Your friend in this endeavor, especially if you have repeated usage of a piece of terminology, is the first reference rule: https://forums.fuwanovel.net/blogs/entry/771-ojousamas-for-all-aka-the-first-reference-rule/. Liberal application of the first reference rule will allow you to use whatever piece of terminology you like as much as you like without potentially confusing your readers. And while it's possible to be a little too hamfisted and make it obvious what you're doing, with enough work, you can sneak in a first reference explanation quite naturally and then use your terminology at will for the rest of the VN.
 
-Again, the most important thing to keep in mind, wwhatever you do, is to do it consistently.
+Again, the most important thing to keep in mind, whatever you do, is to do it consistently.
 
 ## Name Order
 
