@@ -293,7 +293,7 @@ The em-dash should generally be used to indicate an interrupted thought. It shou
 * "Shut up!"
 
 Typically, asides can be executed less obtrusively with commas, but if you really want to, you can use em-dashes for an aside in the middle of a sentence.
-- "Back when I was younger — and only for a moment, mind you — I did consider it."
+- "Back when I was younger—and only for a moment, mind you—I did consider it."
 
 En-dashes are probably not applicable to your script at all. Don't worry about them.
 
